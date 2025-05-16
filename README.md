@@ -21,9 +21,10 @@ I started with the basics:
      * `git push -u origin main\`
 * Branching:
   1. Create a new branch: `git branch develop`
-  2. Switch to new branch: `git checkout develop`
-  3. Create and switch branch: `git checkout -b develop`
-  4. List all branch: `git branch`
-  5. Push a branch: `git push origin develop`
-  6. Delete branch from remote repo: `git branch --delete develop`
+  2. Push and set upstream: `git push --set-upstream origin develop`
+  3. Switch to new branch: `git checkout develop`
+  4. Create and switch branch: `git checkout -b develop`
+  5. List all branch: `git branch`
+  6. Push a branch: `git push origin develop`
+  7. Delete branch from remote repo: `git branch --delete develop`
 * Merging:
