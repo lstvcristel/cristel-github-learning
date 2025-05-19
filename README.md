@@ -8,17 +8,10 @@ I started with the basics:
 
 * Setting up a Repository:
 
-<<<<<<< HEAD
-  1.  First, Created a public repository named `cristel-github-learning`
-  2.  Then, created a folder named `cristel-github-learning` on my local machine.
-  3.  I opened this folder in VS Code.
-  4.  In VS Code, I opened the terminal and initialize a Git Repository by running this commands:
-=======
   1. First, Created a public repository named `cristel-github-learning`
   2. Then, created a folder named `cristel-github-learning` on my local machine.
   3. I opened this folder in VS Code.
   4. In VS Code, I opened the terminal and initialize a Git Repository by running this commands:
->>>>>>> 69a8635045df73c6abe5f5f8598207c84cd5532c
      * `git init`
      * `git remote add origin https://github.com/lstvcristel/cristel-github-learning.git`
      * `git branch -M main`
