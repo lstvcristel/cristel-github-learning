@@ -39,4 +39,3 @@ I started with the basics:
   7. Delete branch from remote repo: `git branch --delete develop`
 
 * Merging:
-
